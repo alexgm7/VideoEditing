@@ -22,11 +22,11 @@ host: ""
 port: 
 ```
 
-2.1 Create Access token from Dropbox
-    a - Use this link to create a new app.
+2.1 Create Access token from Dropbox:
+    a - Use this link to create a new app (https://www.dropbox.com/developers/apps/create). 
     b - Modify the Permissions in the corresponding tab and check all the "*.read* boxes for Files and Folders.
     c - Click Submit
-    d - Create a new token in the Setting tab.
+    d - Create a new token in the Settings tab.
 
 3. Run the main script "clipvideos.py" with python
 
