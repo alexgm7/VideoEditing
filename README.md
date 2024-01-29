@@ -14,7 +14,7 @@ pip install -r requirements.txt
 Access token is only needed if you want to download folders from dropbox
 
 ```bash
-ACCESS_TOKEN: ""
+ACCESS_TOKEN: "token"
 database: ""
 user: ""
 pass: ""
